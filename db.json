@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Pablo",
+      "apellido": "Cortés",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "MongoDB desde cero"
+        }
+      ],
+      "id": "da2c"
+    },
+    {
+      "id": "7e4e",
+      "nombre": "Nestor",
+      "apellido": "Romang",
+      "materias": [
+        {
+          "nombre": "Historia"
+        },
+        {
+          "nombre": "Geografia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "promedio": 8.5,
+      "id": "8b18"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "promedio": 7.5,
+      "id": "aa16"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Rodriguez",
+      "promedio": 6.5,
+      "id": "d7a9"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "f8f4"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duracion": 5,
+      "dificultad": "intermedia",
+      "id": "d0d5"
+    },
+    {
+      "nombre": "MongoDB desde cero",
+      "duracion": 3,
+      "dificultad": "básica",
+      "id": "b3fe"
+    }
+  ]
+}

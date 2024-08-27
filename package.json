@@ -1,0 +1,14 @@
+{
+  "name": "02-proyecto-json-server",
+  "version": "0.0.1",
+  "description": "Armaremos un pequeños servidor con informacion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Pablo Cortés",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2"
+  }
+}
